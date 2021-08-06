@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @majidtdeni666
-- 👀 I’m interested in Life-Hacks
-- 🌱 I’m currently learning Life Hacking
+private static int UpdateDesktop(image wallpaper) {
+       int happiness;
+       MyDesktop desktop  = New MyDesktop( ) ;
+       desktop-apply(wallpaper) ;
+       happiness = INFINITY ;
+       return happiness ;
+}
+ }}
+       }}
 
 <!---
 majidtdeni666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
