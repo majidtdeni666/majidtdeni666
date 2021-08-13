@@ -14,6 +14,6 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=DDos&theme=chartreuse-dark" /> <br>
 <br><br>
 
-<p align=center> THANKS FOR
+<p align=center> THANKS FOR /> <br>
 <p align=center> WATCHING ME
 <p align=center> 😊
