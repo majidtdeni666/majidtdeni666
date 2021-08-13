@@ -17,6 +17,4 @@
 
 <p align=center> THANKS FOR
 <p align=center> WATCHING ME
-<p align=center> 😊 <br>
-
-<br>
+<p align=center> 😊
