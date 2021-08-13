@@ -15,4 +15,4 @@
 
 <br><br>
 
-<p align=center> <div THANKS FOR WATCHING ME </div> </p>
+<p align=center> <div THANKS FOR WATCHING ME </div>
