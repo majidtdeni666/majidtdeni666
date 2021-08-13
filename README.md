@@ -7,3 +7,9 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=RANSOMWARE&theme=chartreuse-dark" /> <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=getinfo&theme=chartreuse-dark" /> <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=DDos&theme=chartreuse-dark" /> <br>
+
+<br><br>
+
+<div align="center">
+  <h1> THANKS FOR WATCHING ME </h1>
+</div>
