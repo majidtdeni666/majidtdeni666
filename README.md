@@ -6,4 +6,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=dark)](https://github.com/tmajidtdeni666/github-readme-stats)
 
 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=chartreuse-dark" /> <br>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=Crack-Pro&theme=chartreuse-dark" /> <br>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=RANSOMWARE&theme=chartreuse-dark" /> <br>
