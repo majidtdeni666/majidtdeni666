@@ -15,6 +15,6 @@
 
 <br><br>
 
-<div align="center">
+<p align=center>
   <h1> THANKS FOR WATCHING ME </h1>
-</div>
+</p>
