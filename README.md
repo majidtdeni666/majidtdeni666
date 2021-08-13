@@ -3,6 +3,8 @@
 [![Facebook](https://img.shields.io/badge/-@majidtdeni-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/deni6660)](https://www.facebook.com/deni6660)
 [![Instagram](https://img.shields.io/badge/-@majidtdeni-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/majidtdeni)](https://www.instagram.com/majidtdeni)
 [![YouTube](https://img.shields.io/youtube/channel/views/UCuB1DJ0d1u9mkZIivlJIgCA?style=social&link=https://m.youtube.com/channel/UCuB1DJ0d1u9mkZIivlJIgCA)](https://m.youtube.com/channel/UCuB1DJ0d1u9mkZIivlJIgCA)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=dark)](https://github.com/majidtdeni666/majidtdeni666&theme=dark)
 ### Hello world, from termux user! 🤪
 <p align=center> <img src=https://komarev.com/ghpvc/?username=majidtdeni666 alt=majidtdeni666 /> </p>
 
@@ -17,5 +19,3 @@
 <p align=center> THANKS FOR
 <p align=center> WATCHING ME
 <p align=center> 😊
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=dark)](https://github.com/majidtdeni666/majidtdeni666&theme=dark)
