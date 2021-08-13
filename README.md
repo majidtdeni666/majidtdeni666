@@ -15,6 +15,6 @@
 
 <br><br>
 
-<p align=center> THANKS FOR WATCHING ME /> <br>
+<p align=center> THANKS FOR WATCHING ME <br>
 
-<br>
+<br><br>
