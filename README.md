@@ -18,4 +18,4 @@
 <p align=center> WATCHING ME
 <p align=center> 😊
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=RANSOMWARE)](https://github.com/majidtdeni666/RANSOMWARE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666)](https://github.com/majidtdeni666/majidtdeni666)
