@@ -18,5 +18,4 @@
 <p align=center> WATCHING ME
 <p align=center> 😊
 
-
-[![Majidt's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidtdeni666)](https://github.com/majidtdeni666/github-readme-stats)
+![Majidt's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidtdeni666&show_icons=true)
