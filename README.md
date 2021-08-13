@@ -18,4 +18,4 @@
 <p align=center> WATCHING ME
 <p align=center> 😊
 
-![Majidt's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidtdeni666&show_icons=true&theme=dracula)
+![Majidt's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidtdeni666&show_icons=true&theme=highcontrast)
