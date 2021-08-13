@@ -12,7 +12,6 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=RANSOMWARE&theme=chartreuse-dark" /> <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=getinfo&theme=chartreuse-dark" /> <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=DDos&theme=chartreuse-dark" /> <br>
-
 <br><br>
 
 <p align=center> THANKS FOR
