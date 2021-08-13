@@ -3,7 +3,5 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=majidtdeni666 alt=majidtdeni666 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=majidtdeni666&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/majidtdeni666/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=dark)](https://github.com/tmajidtdeni666/github-readme-stats)
-
-src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=chartreuse-dark" /> <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=dark)](https://github.com/tmajidtdeni666/github-readme-stats) src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=chartreuse-dark" /> <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=RANSOMWARE&theme=chartreuse-dark" /> <br>
