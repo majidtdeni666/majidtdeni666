@@ -10,7 +10,9 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=chartreuse-dark" /> <br>
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=RANSOMWARE&theme=chartreuse-dark" /> <br>
+
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=getinfo&theme=chartreuse-dark" /> <br>
+
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=DDos&theme=chartreuse-dark" /> <br>
 <br><br>
 
