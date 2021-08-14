@@ -11,7 +11,7 @@
 ![Majidt's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidtdeni666&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200) <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=chartreuse-dark" /> <br>
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=RANSOMWARE&theme=chartreuse-dark" /> <br>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=RANSOMWARE&theme=chartreuse-dark&https://github.com/majidtdeni666/RANSOMWARE" /> <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=getinfo&theme=chartreuse-dark" /> <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=majidtdeni666&repo=DDos&theme=chartreuse-dark" /> <br>
 
