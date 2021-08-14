@@ -17,6 +17,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=DDos&theme=chartreuse-dark)](https://github.com/majidtdeni666/DDos) <br>
 <br><br>
 
-<p {green}align=center> THANKS FOR
+<p {green} align=center> THANKS FOR
 <p align=center> WATCHING ME
 <p align=center> 😊
