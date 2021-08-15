@@ -8,7 +8,7 @@
 ### Hello world, from termux user! 🤪
 <p align=center> <img src=https://komarev.com/ghpvc/?username=majidtdeni666 alt=majidtdeni666 /> </p>
 
-![Majidt's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidtdeni666&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200)
+![Majidt's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidtdeni666&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200) /> <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=dark" /> <br>
 <br>
 
