@@ -16,6 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=getinfo&theme=chartreuse-dark)](https://github.com/majidtdeni666/getinfo) <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=DDos&theme=chartreuse-dark)](https://github.com/majidtdeni666/DDos) <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=Welcome-Voice&theme=chartreuse-dark)](https://github.com/majidtdeni666/Welcome-Voice) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=sh-compiler&theme=chartreuse-dark)](https://github.com/majidtdeni666/sh-compiler) <br>
 <br><br>
 
 ### <p align=center> THANKS FOR <p align=center> WATCHING ME <p align=center> 😊
