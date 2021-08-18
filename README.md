@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666)
 ### Hello world, from termux user! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px">
 <p align=center> <img src=https://komarev.com/ghpvc/?username=majidtdeni666 alt=majidtdeni666 /> </p>
-<img align=center> src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif" width="150px"
+<p align=center> <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="150px"
 
 ![Majidt's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidtdeni666&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200) <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=dark" /> <br>
