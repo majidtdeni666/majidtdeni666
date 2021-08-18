@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif" width="150" height="150" /> <br>
+<p align=center> <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150" /> <br>
 
 [![Facebook](https://img.shields.io/badge/-@majidtdeni-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/deni6660)](https://www.facebook.com/deni6660)
 [![Instagram](https://img.shields.io/badge/-@majidtdeni-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/majidtdeni)](https://www.instagram.com/majidtdeni)
