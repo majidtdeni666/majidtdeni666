@@ -3,6 +3,7 @@
 [![Facebook](https://img.shields.io/badge/-@majidtdeni-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/deni6660)](https://www.facebook.com/deni6660)
 [![Instagram](https://img.shields.io/badge/-@majidtdeni-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/majidtdeni)](https://www.instagram.com/majidtdeni)
 [![YouTube](https://img.shields.io/youtube/channel/views/UCuB1DJ0d1u9mkZIivlJIgCA?style=social&link=https://m.youtube.com/channel/UCuB1DJ0d1u9mkZIivlJIgCA)](https://m.youtube.com/channel/UCuB1DJ0d1u9mkZIivlJIgCA)
+<iframe src="https://discord.com/widget?id=631926074833371164&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666) <br>
 ### Hello world, from termux user! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px"> <br>
