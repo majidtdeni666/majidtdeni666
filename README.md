@@ -7,6 +7,8 @@
 [![Discord](https://img.shields.io/discord/631926074833371164?label=Discord&logo=Discord&link=https://discord.com/channels/631926074833371164/908745026555760730)](https://discord.com/channels/631926074833371164/908745026555760730)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666) <br>
+  📌 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 📌
+  <img src="https://profile-counter.glitch.me/freeCodeCamp/count.svg" />
 ### Hello world! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px"> <br>
 <p align=center> <img src=https://komarev.com/ghpvc/?username=majidtdeni666 alt=majidtdeni666 /> </p> <br>
 <p align=center> <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="180px" <br>
