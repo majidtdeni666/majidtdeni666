@@ -10,7 +10,7 @@
   
   
   📌 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 📌
-<p align=center> <img src="https://profile-counter.glitch.me/majidtdeni666/count.svg" /> <br>
+<p align=center> <img src="https://profile-counter.glitch.me/majidtdeni666/count.svg" /> </p> <br>
 ### Hello world! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px"> <br>
 <p align=center> <img src=https://komarev.com/ghpvc/?username=majidtdeni666 alt=majidtdeni666 /> </p> <br>
 <p align=center> <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="180px" <br>
