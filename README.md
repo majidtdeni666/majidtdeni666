@@ -8,9 +8,6 @@
 [![GitHub](https://img.shields.io/github/watchers/majidtdeni666/majidtdeni666?label=majidtdeni666&style=social&link=https://github.com/majidtdeni666/majidtdeni666)](https://github.com/majidtdeni666/majidtdeni666)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666) <br>
-  
-  
-  📌 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 📌
 <p align=center> <img src="https://profile-counter.glitch.me/majidtdeni666/count.svg" /> <br>
   HELLO WORLD! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px"> <br>
 <p align=center> <img src=https://komarev.com/ghpvc/?username=majidtdeni666 alt=majidtdeni666 /> </p> <br>
