@@ -7,6 +7,8 @@
 [![Discord](https://img.shields.io/discord/631926074833371164?label=Discord&logo=Discord&link=https://discord.com/channels/631926074833371164/908745026555760730)](https://discord.com/channels/631926074833371164/908745026555760730)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666) <br>
+  
+  
   📌 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 📌
 <p align=center> <img src="https://profile-counter.glitch.me/majidtdeni666/count.svg" /> <br>
 ### Hello world! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px"> <br>
@@ -24,4 +26,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=sh-compiler&theme=chartreuse-dark)](https://github.com/majidtdeni666/sh-compiler) <br>
 <br>
 
-### <p align=center> THANKS FOR <p align=center> WATCHING ME <p align=center> 😊
+### <p align=center> THANKS FOR <p align=center> WATCHING <p align=center> 😊
