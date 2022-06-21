@@ -5,6 +5,7 @@
 [![Telegram](https://img.shields.io/badge/-@majidtdeni-06adff?style=flat&logo=Telegram&logoColor=white&link=https://t.me/majidtdeni)](https://t.me/majidtdeni)
 [![YouTube](https://img.shields.io/youtube/channel/views/UCuB1DJ0d1u9mkZIivlJIgCA?style=social&link=https://m.youtube.com/channel/UCuB1DJ0d1u9mkZIivlJIgCA)](https://m.youtube.com/channel/UCuB1DJ0d1u9mkZIivlJIgCA)
 [![Discord](https://img.shields.io/discord/974604701725249547?label=Discord&logo=Discord&link=https://discord.gg/A3nMGawGBf)](https://discord.gg/A3nMGawGBf)
+<iframe src="https://discord.com/widget?id=974604701725249547&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666) <br>
 <p align=center> <img src="https://profile-counter.glitch.me/majidtdeni666/count.svg" /> <br>
