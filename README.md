@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/-@majidtdeni-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/majidtdeni)](https://www.instagram.com/majidtdeni)
 [![Telegram](https://img.shields.io/badge/-@majidtdeni-06adff?style=flat&logo=Telegram&logoColor=white&link=https://t.me/majidtdeni)](https://t.me/majidtdeni)
 [![YouTube](https://img.shields.io/youtube/channel/views/UCuB1DJ0d1u9mkZIivlJIgCA?style=social&link=https://m.youtube.com/channel/UCuB1DJ0d1u9mkZIivlJIgCA)](https://m.youtube.com/channel/UCuB1DJ0d1u9mkZIivlJIgCA)
-[![Discord](https://img.shields.io/discord/631926074833371164?label=Discord&logo=Discord&link=https://discord.gg/A3nMGawGBf)](https://discord.gg/A3nMGawGBf)
+[![Discord](https://img.shields.io/discord/974604701725249547?label=Discord&logo=Discord&link=https://discord.gg/A3nMGawGBf)](https://discord.gg/A3nMGawGBf)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666) <br>
 <p align=center> <img src="https://profile-counter.glitch.me/majidtdeni666/count.svg" /> <br>
