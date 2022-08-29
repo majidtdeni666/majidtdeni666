@@ -22,4 +22,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=Python-Drawing&theme=chartreuse-dark)](https://github.com/majidtdeni666/Python-Drawing) <br>
 <br>
 
+<p align=center> [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12BC23&width=435&lines=JANGAN+LUPA+BAHAGIA;Dont+judge+a+book+by+its+cover)](https://git.io/typing-svg)
+  
 ### <p align=center> THANKS FOR <p align=center> WATCHING <p align=center> 😊
