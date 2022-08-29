@@ -8,8 +8,7 @@
 <p align=center> <img src="https://profile-counter.glitch.me/majidtdeni666/count.svg" /> <br>
   HELLO WORLD! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px"> <br>
 <p align=center> <img src=https://komarev.com/ghpvc/?username=majidtdeni666 alt=majidtdeni666 /> </p> <br>
-
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15E129&center=true&vCenter=true&width=435&lines=JANGAN+LUPA+BAHAGIA;Don't+judge+a+book+by+it's+cover)](https://git.io/typing-svg)
+<p align=center> <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15E129&center=true&multiline=true&width=435&lines=JANGAN+LUPA+BAHAGIA;Dont+judge+a+book+by+its+cover" alt="Typing SVG" /></a>
 <br>
 <p align=center> <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="180px" <br>
 
