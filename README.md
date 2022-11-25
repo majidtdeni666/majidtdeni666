@@ -1,7 +1,7 @@
 <p align=center> <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150" /> <br>
 
 [![Telegram](https://img.shields.io/badge/-@majidtdeni-06adff?style=flat&logo=Telegram&logoColor=white&link=https://t.me/majidtdeni)](https://t.me/majidtdeni)
-[![YouTube](https://img.shields.io/youtube/channel/views/UCuB1DJ0d1u9mkZIivlJIgCA?style=social&link=https://m.youtube.com/channel/UCuB1DJ0d1u9mkZIivlJIgCA)](https://m.youtube.com/channel/UCuB1DJ0d1u9mkZIivlJIgCA)
+[![YouTube](https://img.shields.io/youtube/channel/views/UCuB1DJ0d1u9mkZIivlJIgCA?style=social&link=https://www.youtube.com/@majidtdeni)](https://www.youtube.com/@majidtdeni)
 [![Discord](https://img.shields.io/discord/974604701725249547?label=Discord&logo=Discord&link=https://discord.gg/A3nMGawGBf)](https://discord.gg/A3nMGawGBf)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666) <br>
