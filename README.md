@@ -4,7 +4,7 @@
 [![YouTube](https://img.shields.io/youtube/channel/views/UCuB1DJ0d1u9mkZIivlJIgCA?style=social&link=https://www.youtube.com/@majidtdeni)](https://www.youtube.com/@majidtdeni)
 [![Discord](https://img.shields.io/discord/974604701725249547?label=Discord&logo=Discord&link=https://discord.gg/A3nMGawGBf)](https://discord.gg/A3nMGawGBf)
 [![GitHub stars](https://img.shields.io/github/stars/majidtdeni666?style=social)](https://github.com/majidtdeni666)
-[![Github Forks](https://img.shields.io/github/forks/majidtdeni666?style=social)](https://github.com/majidtdeni666)
+[![Github Forks](https://img.shields.io/github/forks/majidtdeni666/RANSOMWARE?style=social)](https://github.com/majidtdeni666/RANSOMWARE)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666) <br>
 HELLO WORLD! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px"> <br>
