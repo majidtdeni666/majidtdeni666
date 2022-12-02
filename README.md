@@ -1,4 +1,6 @@
-<p align="center"> <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150" /> <br>
+<p align="center">
+  <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150"
+                        </p>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=majidtdeni666&theme=hacker&border_radius=9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
