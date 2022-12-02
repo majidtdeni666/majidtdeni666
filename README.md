@@ -10,8 +10,8 @@
   [![GitHub stars](https://img.shields.io/github/stars/majidtdeni666?style=social)](https://github.com/majidtdeni666)
   [![Github Forks](https://img.shields.io/github/forks/majidtdeni666/RANSOMWARE?style=social)](https://github.com/majidtdeni666/RANSOMWARE)
   [![GitHub Readme YouTube Cards](https://github.com/majidtdeni666/RANSOMWARE/actions/workflows/youtube-cards.yml/badge.svg)](https://github.com/majidtdeni666/RANSOMWARE/actions/workflows/youtube-cards.yml)
-    
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666) <br>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666) <br>
 HELLO WORLD! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px"> <br>
 <p align=center> <img src=https://komarev.com/ghpvc/?username=majidtdeni666 alt=majidtdeni666 /> </p> <br>
 <p align=center> <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15E129&center=true&width=435&lines=JANGAN+LUPA+BAHAGIA;Don't+judge+a+book+by+it's+cover" alt="Typing SVG" /></a>
