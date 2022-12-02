@@ -4,7 +4,6 @@
   
 <div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=majidtdeni666&theme=hacker&border_radius=9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  </p>
 
 [![Telegram](https://img.shields.io/badge/-@majidtdeni-06adff?style=flat&logo=Telegram&logoColor=white&link=https://t.me/majidtdeni)](https://t.me/majidtdeni)
 [![YouTube](https://img.shields.io/youtube/channel/views/UCuB1DJ0d1u9mkZIivlJIgCA?style=social&link=https://www.youtube.com/@majidtdeni)](https://www.youtube.com/@majidtdeni)
@@ -23,7 +22,7 @@ HELLO WORLD! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/
 ![Majidt's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidtdeni666&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200) <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=dark" /> <br>
 <br>
-### <p align=left> Git Clone Script <br>
+### <p align=left> >Git Clone Script <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=RANSOMWARE&theme=chartreuse-dark)](https://github.com/majidtdeni666/RANSOMWARE) <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=getinfo&theme=chartreuse-dark)](https://github.com/majidtdeni666/getinfo) <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=DDos&theme=chartreuse-dark)](https://github.com/majidtdeni666/DDos) <br>
