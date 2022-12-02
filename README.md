@@ -1,6 +1,6 @@
 <p align=center> <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150" /> <br>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=majidtdeni666&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=majidtdeni666&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Telegram](https://img.shields.io/badge/-@majidtdeni-06adff?style=flat&logo=Telegram&logoColor=white&link=https://t.me/majidtdeni)](https://t.me/majidtdeni)
 [![YouTube](https://img.shields.io/youtube/channel/views/UCuB1DJ0d1u9mkZIivlJIgCA?style=social&link=https://www.youtube.com/@majidtdeni)](https://www.youtube.com/@majidtdeni)
