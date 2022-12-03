@@ -12,6 +12,7 @@
   [![GitHub Readme YouTube Cards](https://github.com/majidtdeni666/RANSOMWARE/actions/workflows/youtube-cards.yml/badge.svg)](https://www.youtube.com/@majidtdeni)
   [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/majidtdeni666/majidt?style=plastic)](https://www.youtube.com/@majidtdeni)
   [![GitHub contributors](https://img.shields.io/github/contributors/majidtdeni666/RANSOMWARE)](https://www.youtube.com/@majidtdeni)
+  [![GitHub](https://img.shields.io/github/license/majidtdeni666/readme-youtube-cards)](https://www.youtube.com/@majidtdeni)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666) <br>
 HELLO WORLD! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px"> <br>
