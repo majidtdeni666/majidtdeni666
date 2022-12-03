@@ -9,7 +9,7 @@
   [![Discord](https://img.shields.io/discord/974604701725249547?label=Discord&logo=Discord&link=https://discord.gg/A3nMGawGBf)](https://discord.gg/A3nMGawGBf)
   [![GitHub stars](https://img.shields.io/github/stars/majidtdeni666?style=social)](https://github.com/majidtdeni666)
   [![Github Forks](https://img.shields.io/github/forks/majidtdeni666/RANSOMWARE?style=social)](https://github.com/majidtdeni666/RANSOMWARE)
-  [![GitHub Readme YouTube Cards](https://github.com/majidtdeni666/RANSOMWARE/actions/workflows/youtube-cards.yml/badge.svg)](https://github.com/majidtdeni666/RANSOMWARE/actions/workflows/youtube-cards.yml)
+  [![GitHub Readme YouTube Cards](https://github.com/majidtdeni666/RANSOMWARE/actions/workflows/youtube-cards.yml/badge.svg)](https://www.youtube.com/@majidtdeni)
   [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/majidtdeni666/majidt?style=plastic)](https://www.youtube.com/@majidtdeni)
   [![GitHub contributors](https://img.shields.io/github/contributors/majidtdeni666/RANSOMWARE)](https://www.youtube.com/@majidtdeni)
   
