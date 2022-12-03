@@ -10,7 +10,9 @@
   [![GitHub stars](https://img.shields.io/github/stars/majidtdeni666?style=social)](https://github.com/majidtdeni666)
   [![Github Forks](https://img.shields.io/github/forks/majidtdeni666/RANSOMWARE?style=social)](https://github.com/majidtdeni666/RANSOMWARE)
   [![GitHub Readme YouTube Cards](https://github.com/majidtdeni666/RANSOMWARE/actions/workflows/youtube-cards.yml/badge.svg)](https://github.com/majidtdeni666/RANSOMWARE/actions/workflows/youtube-cards.yml)
-  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/majidtdeni666/majidt?color=gree&style=plastic)
+<p align="center">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/majidtdeni666/majidt?style=plastic">
+  </p>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666) <br>
 HELLO WORLD! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px"> <br>
