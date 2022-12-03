@@ -18,10 +18,14 @@
 <p align="center"> 
   HELLO WORLD! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px">
   </p> <br>
-<p align=center> <img src=https://komarev.com/ghpvc/?username=majidtdeni666 alt=majidtdeni666 /> </p> <br>
-<p align=center> <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15E129&center=true&width=435&lines=JANGAN+LUPA+BAHAGIA;Don't+judge+a+book+by+it's+cover" alt="Typing SVG" /></a>
+<p align="center">
+  <img src=https://komarev.com/ghpvc/?username=majidtdeni666 alt=majidtdeni666 />
+</p> <br>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15E129&center=true&width=435&lines=JANGAN+LUPA+BAHAGIA;Don't+judge+a+book+by+it's+cover" alt="Typing SVG" /></a>
 <br>
-<p align=center> <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="180px" <br>
+<p align="center">
+  <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="180px"
+       </p> <br>
 
 [![Majidt's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidtdeni666&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200)](https://github.com/majidtdeni666) <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=dark" /> <br>
