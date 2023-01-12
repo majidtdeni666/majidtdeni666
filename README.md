@@ -28,7 +28,6 @@
   <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="180px"
        </p> <br>
 ### 📺 Latest YouTube Videos
-
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 
