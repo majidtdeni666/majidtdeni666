@@ -30,6 +30,12 @@
        
 ### 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Archetype](https://ytcards.demolab.com/?id=_Uj_5hDjrYc&title=Archetype&lang=en&timestamp=1670401887&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Archetype")](https://www.youtube.com/watch?v=_Uj_5hDjrYc)
+[![Kucing kelahi #cutecat #cat #kucing #fight](https://ytcards.demolab.com/?id=XsyBntaLhC4&title=Kucing+kelahi+%23cutecat+%23cat+%23kucing+%23fight&lang=en&timestamp=1670025890&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Kucing kelahi #cutecat #cat #kucing #fight")](https://www.youtube.com/watch?v=XsyBntaLhC4)
+[![#anime](https://ytcards.demolab.com/?id=U_5QpOhfBf4&title=%23anime&lang=en&timestamp=1670013362&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "#anime")](https://www.youtube.com/watch?v=U_5QpOhfBf4)
+[![#cutecat  #cat](https://ytcards.demolab.com/?id=nexpgXciB3Q&title=%23cutecat++%23cat&lang=en&timestamp=1669924776&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "#cutecat  #cat")](https://www.youtube.com/watch?v=nexpgXciB3Q)
+[![#vibes](https://ytcards.demolab.com/?id=dLIqK9sNNys&title=%23vibes&lang=en&timestamp=1669924711&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "#vibes")](https://www.youtube.com/watch?v=dLIqK9sNNys)
+[![#anime](https://ytcards.demolab.com/?id=jQWPmHseJ8o&title=%23anime&lang=en&timestamp=1669923780&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "#anime")](https://www.youtube.com/watch?v=jQWPmHseJ8o)
 <!-- END YOUTUBE-CARDS -->
 
 [![Majidt's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidtdeni666&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200)](https://github.com/majidtdeni666) <br>
