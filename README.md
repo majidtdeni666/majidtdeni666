@@ -13,7 +13,7 @@
   [![GitHub contributors](https://img.shields.io/github/contributors/majidtdeni666/RANSOMWARE)](https://www.youtube.com/@majidtdeni)
   [![GitHub](https://img.shields.io/github/license/majidtdeni666/readme-youtube-cards)](https://www.youtube.com/@majidtdeni)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666)
+  [![Readme Card](https://github-readme-stats.vercel.app/api?username=majidtdeni666&repo=majidtdeni666&theme=transparent)](https://github.com/majidtdeni666/majidtdeni666)
   </p> <br>
 <p align="center"> 
   HELLO WORLD! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px">
