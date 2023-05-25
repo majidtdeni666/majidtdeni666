@@ -37,7 +37,8 @@
 [![Archetype](https://ytcards.demolab.com/?id=_Uj_5hDjrYc&title=Archetype&lang=en&timestamp=1670401887&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Archetype")](https://www.youtube.com/watch?v=_Uj_5hDjrYc)
 <!-- END YOUTUBE-CARDS -->
 
-[![Majidt's GitHub wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=majidtdeni666)](https://github.com/majidtdeni666/github-readme-stats) <br>
+[![Majidt's GitHub wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=majidtdeni666)](https://github.com/majidtdeni666/github-readme-stats)
+  <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=dark" /> <br>
 <br>
 ### <p align=left> ⛔ Git Clone Script <br>
