@@ -36,10 +36,10 @@
 [![QUEST PERTEMUAN YANG DITAKDIRKAN [Genshin Impact] Part 2](https://ytcards.demolab.com/?id=Dv2tWpb8Rq0&title=QUEST+PERTEMUAN+YANG+DITAKDIRKAN+%5BGenshin+Impact%5D+Part+2&lang=en&timestamp=1678253985&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "QUEST PERTEMUAN YANG DITAKDIRKAN [Genshin Impact] Part 2")](https://www.youtube.com/watch?v=Dv2tWpb8Rq0)
 [![QUEST PERTEMUAN YANG DITAKDIRKAN [Genshin Impact] Part 1](https://ytcards.demolab.com/?id=PX3CojpEOUE&title=QUEST+PERTEMUAN+YANG+DITAKDIRKAN+%5BGenshin+Impact%5D+Part+1&lang=en&timestamp=1678070345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "QUEST PERTEMUAN YANG DITAKDIRKAN [Genshin Impact] Part 1")](https://www.youtube.com/watch?v=PX3CojpEOUE)
 [![LIVE DAILY [GENSHIN IMPACT] ⛔](https://ytcards.demolab.com/?id=e_X9IqmkIFo&title=LIVE+DAILY+%5BGENSHIN+IMPACT%5D+%E2%9B%94&lang=en&timestamp=1675718399&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "LIVE DAILY [GENSHIN IMPACT] ⛔")](https://www.youtube.com/watch?v=e_X9IqmkIFo)
-<!-- END YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS --> 
 <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=dark" /> <br>
-<br>
+
 ### <p align=left> ⛔ Git Clone Script <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=RANSOMWARE&theme=chartreuse-dark)](https://github.com/majidtdeni666/RANSOMWARE) <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=getinfo&theme=chartreuse-dark)](https://github.com/majidtdeni666/getinfo) <br>
