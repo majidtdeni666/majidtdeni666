@@ -25,7 +25,7 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15E129&center=true&width=435&lines=JANGAN+LUPA+BAHAGIA;Don't+judge+a+book+by+it's+cover" alt="Typing SVG" /></a>
 <br>
 <p align="center">
-  <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="180px"
+<img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="180px"
        </p> <br>
        
 ### <p align=center> 📺 Latest YouTube Videos
