@@ -38,6 +38,7 @@
 [![LIVE DAILY [GENSHIN IMPACT] ⛔](https://ytcards.demolab.com/?id=e_X9IqmkIFo&title=LIVE+DAILY+%5BGENSHIN+IMPACT%5D+%E2%9B%94&lang=en&timestamp=1675718399&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LIVE DAILY [GENSHIN IMPACT] ⛔")](https://www.youtube.com/watch?v=e_X9IqmkIFo)
 <!-- END YOUTUBE-CARDS --> 
 <br>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=dark" /> <br>
 
