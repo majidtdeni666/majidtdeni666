@@ -19,7 +19,7 @@
 <p align="center">
   <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="180px"
     </p>
-       
+  
 ### <p align=center> 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![MARI KITA MENGGABUT TOGETHER [GENSHIN IMPACT]](https://ytcards.demolab.com/?id=7JlVaX1TCoE&title=MARI+KITA+MENGGABUT+TOGETHER+%5BGENSHIN+IMPACT%5D&lang=en&timestamp=1686368164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MARI KITA MENGGABUT TOGETHER [GENSHIN IMPACT]")](https://www.youtube.com/watch?v=7JlVaX1TCoE)
@@ -30,17 +30,14 @@
 [![LIVE DAILY [GENSHIN IMPACT] ⛔](https://ytcards.demolab.com/?id=e_X9IqmkIFo&title=LIVE+DAILY+%5BGENSHIN+IMPACT%5D+%E2%9B%94&lang=en&timestamp=1675718399&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LIVE DAILY [GENSHIN IMPACT] ⛔")](https://www.youtube.com/watch?v=e_X9IqmkIFo)
 <!-- END YOUTUBE-CARDS --> 
 <br>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=dark" /> <br>
-
-### <p align=center> ⛔ Git Clone Script <br>
+### <p align=center> ⛔ Git Clone Script
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=RANSOMWARE&theme=chartreuse-dark)](https://github.com/majidtdeni666/RANSOMWARE) <br>
-# <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=getinfo&theme=chartreuse-dark)](https://github.com/majidtdeni666/getinfo)
+# <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=getinfo&theme=chartreuse-dark)](https://github.com/majidtdeni666/getinfo) <br>
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=DDos&theme=chartreuse-dark)](https://github.com/majidtdeni666/DDos) <br>
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=Welcome-Voice&theme=chartreuse-dark)](https://github.com/majidtdeni666/Welcome-Voice) <br>
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=sh-compiler&theme=chartreuse-dark)](https://github.com/majidtdeni666/sh-compiler) <br>
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=Python-Drawing&theme=chartreuse-dark)](https://github.com/majidtdeni666/Python-Drawing) <br>
 <br>
-
 ### <p align=center> THANKS FOR <p align=center> WATCHING <p align=center> 😊
