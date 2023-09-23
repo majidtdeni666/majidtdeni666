@@ -36,7 +36,7 @@
 
 ### <p align=center> ⛔ Git Clone Script <br>
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=RANSOMWARE&theme=chartreuse-dark)](https://github.com/majidtdeni666/RANSOMWARE) <br>
-# <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=getinfo&theme=chartreuse-dark)](https://github.com/majidtdeni666/getinfo) <br>
+# <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=getinfo&theme=chartreuse-dark)](https://github.com/majidtdeni666/getinfo)
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=DDos&theme=chartreuse-dark)](https://github.com/majidtdeni666/DDos) <br>
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=Welcome-Voice&theme=chartreuse-dark)](https://github.com/majidtdeni666/Welcome-Voice) <br>
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=sh-compiler&theme=chartreuse-dark)](https://github.com/majidtdeni666/sh-compiler) <br>
