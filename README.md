@@ -8,7 +8,7 @@
 
 <script type="text/javascript">
     var ouo_token = 'xXw7BWdn';
-    var exclude_domains = ['example.com', 'yoursite.com']; 
+    var exclude_domains = ['https://github.com/@majidtdeni666']; 
 </script>
 <script src="//cdn.ouo.io/js/full-page-script.js"></script>
   
