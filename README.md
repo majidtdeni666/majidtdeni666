@@ -41,6 +41,4 @@
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=sh-compiler&theme=chartreuse-dark)](https://github.com/majidtdeni666/sh-compiler) <br>
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=Python-Drawing&theme=chartreuse-dark)](https://github.com/majidtdeni666/Python-Drawing) <br>
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@kenichiro.tt" data-unique-id="kenichiro.tt" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@kenichiro.tt?refer=creator_embed">@kenichiro.tt</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-
 ### <p align=center> THANKS FOR <p align=center> WATCHING <p align=center> 😊
