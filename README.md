@@ -1,10 +1,8 @@
 <p align="center">
-  <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150 </p>
-    
+  <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150 <br>
 <p align="center">
-  <img src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyMFrwdv9QTHY2V1BG1NMsqUfaiKkbdwZCCQBRidQ2My70W7OBNSMGL8HPLuXlaf8ob8Pwh9rOwzWzv4rGPTqY7SyyJL0oUCGatw67eZ6atzlKnxE7jG5obSeQrW5HSIMZCcm2IWdEOSX/w919-h516-p-k-no-nu/genshin-impact-scenery-uhdpaper.com-4K-3.2969-wp.thumbnail.jpg </p>
-  
-# <p align=center> [![GitHub Streak](https://streak-stats.demolab.com?user=majidtdeni666&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=EB0000&ring=0CDBEB&dates=EBEBEB)](https://git.io/streak-stats)
+  <img src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyMFrwdv9QTHY2V1BG1NMsqUfaiKkbdwZCCQBRidQ2My70W7OBNSMGL8HPLuXlaf8ob8Pwh9rOwzWzv4rGPTqY7SyyJL0oUCGatw67eZ6atzlKnxE7jG5obSeQrW5HSIMZCcm2IWdEOSX/w919-h516-p-k-no-nu/genshin-impact-scenery-uhdpaper.com-4K-3.2969-wp.thumbnail.jpg <br>
+# <p align=center> [![GitHub Streak](https://streak-stats.demolab.com?user=majidtdeni666&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=EB0000&ring=0CDBEB&dates=EBEBEB)](https://git.io/streak-stats) <br>
   
 # <p align=center> [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCuB1DJ0d1u9mkZIivlJIgCA?label=%40Kenichiro&style=social)](https://www.youtube.com/@yt.kenichiro) [![Discord](https://img.shields.io/discord/974604701725249547?label=Discord&logo=Discord&link=https://discord.gg/A3nMGawGBf)](https://discord.gg/A3nMGawGBf) [![GitHub stars](https://img.shields.io/github/stars/majidtdeni666?style=social)](https://github.com/majidtdeni666) [![Github Forks](https://img.shields.io/github/forks/majidtdeni666/RANSOMWARE?style=social)](https://github.com/majidtdeni666/RANSOMWARE) [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/majidtdeni666/majidt?style=plastic)](https://www.youtube.com/@yt.kenichiro) [![GitHub contributors](https://img.shields.io/github/contributors/majidtdeni666/RANSOMWARE)](https://www.youtube.com/@yt.kenichiro) [![GitHub](https://img.shields.io/github/license/majidtdeni666/readme-youtube-cards)](https://www.youtube.com/@yt.kenichiro) [![wakatime](https://wakatime.com/badge/user/3d0620a2-a5da-452f-89be-986d93f7f606.svg)](https://wakatime.com/@3d0620a2-a5da-452f-89be-986d93f7f606)
   
@@ -43,6 +41,7 @@
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=sh-compiler&theme=chartreuse-dark)](https://github.com/majidtdeni666/sh-compiler) <br>
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=Python-Drawing&theme=chartreuse-dark)](https://github.com/majidtdeni666/Python-Drawing) <br>
 
-[IMG]https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_s4rXb2CUPda3lJkdTXgLY7MQAUFrchJ6tRLBCUZzOISSYEVaIeQlS95-n4vBL7KmIQOZZwOlYLawUuBuYqjklsJ43e7XD5YGiLYxzkPM9Jgersf0_EczCeeVaUesj1IFZINEvV3ABwFJv02OGdxqZZdQ=w919-h516-p-k-no-nu[/IMG][u][url=https://www.uhdpaper.com/2022/04/arlecchino-genshin-impact-art-4k-7141h.html?m=0] HD Resolution Visit https://www.uhdpaper.com/2022/04/arlecchino-genshin-impact-art-4k-7141h.html?m=0[/url][/u]
+<p align="center">
+  <img src=https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_s4rXb2CUPda3lJkdTXgLY7MQAUFrchJ6tRLBCUZzOISSYEVaIeQlS95-n4vBL7KmIQOZZwOlYLawUuBuYqjklsJ43e7XD5YGiLYxzkPM9Jgersf0_EczCeeVaUesj1IFZINEvV3ABwFJv02OGdxqZZdQ=w919-h516-p-k-no-nu[/IMG][u][url=https://www.uhdpaper.com/2022/04/arlecchino-genshin-impact-art-4k-7141h.html?m=0] <br>
 
 ### <p align=center> THANKS FOR <p align=center> WATCHING <p align=center> 😊
