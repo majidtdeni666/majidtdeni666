@@ -1,7 +1,7 @@
 <p align="center">
   <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150 <br>
 <p align="center">
-  <img src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyMFrwdv9QTHY2V1BG1NMsqUfaiKkbdwZCCQBRidQ2My70W7OBNSMGL8HPLuXlaf8ob8Pwh9rOwzWzv4rGPTqY7SyyJL0oUCGatw67eZ6atzlKnxE7jG5obSeQrW5HSIMZCcm2IWdEOSX/w919-h516-p-k-no-nu/genshin-impact-scenery-uhdpaper.com-4K-3.2969-wp.thumbnail.jpg width="1080" height="720 <br>
+  <img src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyMFrwdv9QTHY2V1BG1NMsqUfaiKkbdwZCCQBRidQ2My70W7OBNSMGL8HPLuXlaf8ob8Pwh9rOwzWzv4rGPTqY7SyyJL0oUCGatw67eZ6atzlKnxE7jG5obSeQrW5HSIMZCcm2IWdEOSX/w919-h516-p-k-no-nu/genshin-impact-scenery-uhdpaper.com-4K-3.2969-wp.thumbnail.jpg <br>
   
 # <p align=center> [![GitHub Streak](https://streak-stats.demolab.com?user=majidtdeni666&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=EB0000&ring=0CDBEB&dates=EBEBEB)](https://git.io/streak-stats) <br>
   
@@ -43,5 +43,5 @@
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=Python-Drawing&theme=chartreuse-dark)](https://github.com/majidtdeni666/Python-Drawing) <br>
 <p align=center>
   <img
-src=https://c4.wallpaperflare.com/wallpaper/234/938/564/anime-boys-genshin-impact-arlecchino-genshin-impact-hd-wallpaper-preview.jpg width="1080" height="720 <br>
+src=https://c4.wallpaperflare.com/wallpaper/234/938/564/anime-boys-genshin-impact-arlecchino-genshin-impact-hd-wallpaper-preview.jpg <br>
 <p align=center> THANKS FOR <p align=center> WATCHING <p align=center> 😊
