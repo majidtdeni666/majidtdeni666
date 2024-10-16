@@ -1,7 +1,8 @@
 <p align="center">
   <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150 <br>
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="19063890" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/zhongli-genshin-impact-liyue-geo-gif-19063890">Zhongli Genshin GIF</a>from <a href="https://tenor.com/search/zhongli-gifs">Zhongli GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> <br>
+<p align="center"> 
+  <img src=https://tenor.com/id/view/zhongli-genshin-impact-liyue-geo-gif-19063890.gif <br>
   
 # <p align=center> [![GitHub Streak](https://streak-stats.demolab.com?user=majidtdeni666&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=EB0000&ring=0CDBEB&dates=EBEBEB)](https://git.io/streak-stats) <br>
   
