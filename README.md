@@ -8,9 +8,6 @@
   
 # <p align=center> [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCuB1DJ0d1u9mkZIivlJIgCA?label=%40Kenichiro&style=social)](https://www.youtube.com/@kenichiro-yt) [![Discord](https://img.shields.io/discord/974604701725249547?label=Discord&logo=Discord&link=https://discord.gg/A3nMGawGBf)](https://discord.gg/A3nMGawGBf) [![GitHub stars](https://img.shields.io/github/stars/majidtdeni666?style=social)](https://github.com/majidtdeni666) [![Github Forks](https://img.shields.io/github/forks/majidtdeni666/RANSOMWARE?style=social)](https://github.com/majidtdeni666/RANSOMWARE) [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/majidtdeni666/majidt?style=plastic)](https://www.youtube.com/@yt.kenichiro) [![GitHub contributors](https://img.shields.io/github/contributors/majidtdeni666/RANSOMWARE)](https://www.youtube.com/@yt.kenichiro) [![GitHub](https://img.shields.io/github/license/majidtdeni666/readme-youtube-cards)](https://www.youtube.com/@yt.kenichiro) [![wakatime](https://wakatime.com/badge/user/3d0620a2-a5da-452f-89be-986d93f7f606.svg)](https://wakatime.com/@3d0620a2-a5da-452f-89be-986d93f7f606) <br>
 
-<p align="center">
-  <img src=https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif?cid=ecf05e47p2o9snqe0v7x60599rmw4o6xcmkg2wwccwak3w3j&ep=v1_gifs_search&rid=giphy.gif&ct=g.gif width="150" height="150 </p> <br>
-
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api?username=majidtdeni666&repo=majidtdeni666&theme=transparent)](https://github.com/majidtdeni666)
   </p> <br>
 <p align="center"> 
