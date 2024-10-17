@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150 <br>
+  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Ryd3BtZXM2dm9tdmhzNGZ1ZjJuN3J4YTFnOGptdTkzdTc0M20wayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uIJBFZoOaifHf52MER/giphy.gif width="150" height="150 <br>
 <p align="center">
 <p align="center"> 
   <img src=https://tenor.com/id/view/zhongli-genshin-impact-liyue-geo-gif-19063890.gif <br>
