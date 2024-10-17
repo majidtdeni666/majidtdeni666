@@ -22,7 +22,7 @@
   <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="180px"
     </p>
   
-### <p align=center> 📺 Latest YouTube Videos
+### <p align="center"> 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![MARI KITA MENGGABUT TOGETHER [GENSHIN IMPACT]](https://ytcards.demolab.com/?id=7JlVaX1TCoE&title=MARI+KITA+MENGGABUT+TOGETHER+%5BGENSHIN+IMPACT%5D&lang=en&timestamp=1686368164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MARI KITA MENGGABUT TOGETHER [GENSHIN IMPACT]")](https://www.youtube.com/watch?v=7JlVaX1TCoE)
 [![Kimetsu No Yaiba](https://ytcards.demolab.com/?id=J4Nl_cYSq2I&title=Kimetsu+No+Yaiba&lang=en&timestamp=1681677754&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Kimetsu No Yaiba")](https://www.youtube.com/watch?v=J4Nl_cYSq2I)
