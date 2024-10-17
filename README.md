@@ -2,7 +2,7 @@
   <img src=https://media.giphy.com/media/GFLB1pCmhgvIDSJTvp/giphy.gif?cid=ecf05e47i1f9c3gzv1iahmysmajkrpjfj9i0atwc4slq7kmw&ep=v1_gifs_search&rid=giphy.gif&ct=g.gif width="175" height="175" <br>
 <p align="center">
 <p align="center"> 
-  <img src=https://tenor.com/id/view/zhongli-genshin-impact-liyue-geo-gif-19063890.gif <br>
+  <img src=https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e476ojmbyr295ttqbdgmqmm3tevshogjidue1eo5x08&ep=v1_gifs_search&rid=giphy.gif&ct=g.gif <br>
   
 # <p align=center> [![GitHub Streak](https://streak-stats.demolab.com?user=majidtdeni666&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=EB0000&ring=0CDBEB&dates=EBEBEB)](https://git.io/streak-stats) <br>
   
