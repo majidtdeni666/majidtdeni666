@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src=https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif?cid=ecf05e47p2o9snqe0v7x60599rmw4o6xcmkg2wwccwak3w3j&ep=v1_gifs_search&rid=giphy.gif&ct=g.gif width="150" height="150 <br>
-  
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api?username=majidtdeni666&repo=majidtdeni666&theme=transparent)](https://github.com/majidtdeni666)
   </p> <br>
 <p align="center"> 
