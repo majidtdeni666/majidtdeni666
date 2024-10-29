@@ -45,4 +45,4 @@
 <p align=center>
   <img
 src=https://c4.wallpaperflare.com/wallpaper/234/938/564/anime-boys-genshin-impact-arlecchino-genshin-impact-hd-wallpaper-preview.jpg <br>
-<p align=center> THANKS FOR <p align=center> WATCHING <p align=center> 😊
+<p align=center> THANKS FOR WATCHING <p align=center> 😊
