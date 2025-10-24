@@ -32,9 +32,7 @@
 <br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=dark" /> <br>
-
-  ```
-
+  
   ### <p align=center> ⛔ Git Clone Script <br>
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=RANSOMWARE&theme=chartreuse-dark)](https://github.com/majidtdeni666/RANSOMWARE) <br>
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=getinfo&theme=chartreuse-dark)](https://github.com/majidtdeni666/getinfo) <br>
@@ -42,8 +40,6 @@
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=Welcome-Voice&theme=chartreuse-dark)](https://github.com/majidtdeni666/Welcome-Voice) <br>
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=sh-compiler&theme=chartreuse-dark)](https://github.com/majidtdeni666/sh-compiler) <br>
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=Python-Drawing&theme=chartreuse-dark)](https://github.com/majidtdeni666/Python-Drawing) <br>
-
-```
 
 <p align=center>
   <img
