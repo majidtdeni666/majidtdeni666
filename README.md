@@ -32,6 +32,18 @@
 <br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=dark" /> <br>
+  
+  ---
+
+## 🛠️ Technologies & Tools
+
+- Programming Languages: [Python, JavaScript, ...]
+- Frameworks: [React, Node.js, Django, ...]
+- Tools: [Git, Docker, VSCode, ...]
+- Cloud: [AWS, Azure, ...]
+- Database: [PostgreSQL, MongoDB, ...]
+
+---
 
   ### <p align=center> ⛔ Git Clone Script <br>
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=RANSOMWARE&theme=chartreuse-dark)](https://github.com/majidtdeni666/RANSOMWARE) <br>
