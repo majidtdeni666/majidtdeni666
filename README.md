@@ -21,14 +21,28 @@
     </p>
   
 ### <p align="center"> 📺 Latest YouTube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-[![MARI KITA MENGGABUT TOGETHER [GENSHIN IMPACT]](https://ytcards.demolab.com/?id=7JlVaX1TCoE&title=MARI+KITA+MENGGABUT+TOGETHER+%5BGENSHIN+IMPACT%5D&lang=en&timestamp=1686368164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MARI KITA MENGGABUT TOGETHER [GENSHIN IMPACT]")](https://www.youtube.com/watch?v=7JlVaX1TCoE)
-[![Kimetsu No Yaiba](https://ytcards.demolab.com/?id=J4Nl_cYSq2I&title=Kimetsu+No+Yaiba&lang=en&timestamp=1681677754&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Kimetsu No Yaiba")](https://www.youtube.com/watch?v=J4Nl_cYSq2I)
-[![😝😛😝😛😝😛😝😛😝😛😝😛😝](https://ytcards.demolab.com/?id=UpPFNRJ1kdI&title=%F0%9F%98%9D%F0%9F%98%9B%F0%9F%98%9D%F0%9F%98%9B%F0%9F%98%9D%F0%9F%98%9B%F0%9F%98%9D%F0%9F%98%9B%F0%9F%98%9D%F0%9F%98%9B%F0%9F%98%9D%F0%9F%98%9B%F0%9F%98%9D&lang=en&timestamp=1681677190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "😝😛😝😛😝😛😝😛😝😛😝😛😝")](https://www.youtube.com/watch?v=UpPFNRJ1kdI)
-[![QUEST PERTEMUAN YANG DITAKDIRKAN [Genshin Impact] Part 2](https://ytcards.demolab.com/?id=Dv2tWpb8Rq0&title=QUEST+PERTEMUAN+YANG+DITAKDIRKAN+%5BGenshin+Impact%5D+Part+2&lang=en&timestamp=1678253985&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "QUEST PERTEMUAN YANG DITAKDIRKAN [Genshin Impact] Part 2")](https://www.youtube.com/watch?v=Dv2tWpb8Rq0)
-[![QUEST PERTEMUAN YANG DITAKDIRKAN [Genshin Impact] Part 1](https://ytcards.demolab.com/?id=PX3CojpEOUE&title=QUEST+PERTEMUAN+YANG+DITAKDIRKAN+%5BGenshin+Impact%5D+Part+1&lang=en&timestamp=1678070345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "QUEST PERTEMUAN YANG DITAKDIRKAN [Genshin Impact] Part 1")](https://www.youtube.com/watch?v=PX3CojpEOUE)
-[![LIVE DAILY [GENSHIN IMPACT] ⛔](https://ytcards.demolab.com/?id=e_X9IqmkIFo&title=LIVE+DAILY+%5BGENSHIN+IMPACT%5D+%E2%9B%94&lang=en&timestamp=1675718399&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LIVE DAILY [GENSHIN IMPACT] ⛔")](https://www.youtube.com/watch?v=e_X9IqmkIFo)
-<!-- END YOUTUBE-CARDS --> 
+<!-- Add this CSS to your style section or a style block -->
+<style>
+.youtube-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Centers horizontally */
+  gap: 16px; /* Optional: adds space between cards */
+  margin-top: 20px;
+}
+</style>
+
+<!-- Wrap your cards in a div with the class 'youtube-cards-container' -->
+<div class="youtube-cards-container">
+  <!-- BEGIN YOUTUBE-CARDS -->
+  [![MARI KITA MENGGABUT TOGETHER [GENSHIN IMPACT]](https://ytcards.demolab.com/?id=7JlVaX1TCoE&title=MARI+KITA+MENGGABUT+TOGETHER+%5BGENSHIN+IMPACT%5D&lang=en&timestamp=1686368164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MARI KITA MENGGABUT TOGETHER [GENSHIN IMPACT]")](https://www.youtube.com/watch?v=7JlVaX1TCoE)
+  [![Kimetsu No Yaiba](https://ytcards.demolab.com/?id=J4Nl_cYSq2I&title=Kimetsu+No+Yaiba&lang=en&timestamp=1681677754&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Kimetsu No Yaiba")](https://www.youtube.com/watch?v=J4Nl_cYSq2I)
+  [![😝😛😝😛😝😛😝😛😝😛😝😛😝](https://ytcards.demolab.com/?id=UpPFNRJ1kdI&title=%F0%9F%98%9D%F0%9F%98%9B%F0%9F%98%9D%F0%9F%98%9B%F0%9F%98%9D%F0%9F%98%9B%F0%9F%98%9D%F0%9F%98%9B%F0%9F%98%9D%F0%9F%98%9B%F0%9F%98%9D%F0%9F%98%9B%F0%9F%98%9D&lang=en&timestamp=1681677190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "😝😛😝😛😝😛😝😛😝😛😝😛😝")](https://www.youtube.com/watch?v=UpPFNRJ1kdI)
+  [![QUEST PERTEMUAN YANG DITAKDIRKAN [Genshin Impact] Part 2](https://ytcards.demolab.com/?id=Dv2tWpb8Rq0&title=QUEST+PERTEMUAN+YANG+DITAKDIRKAN+%5BGenshin+Impact%5D+Part+2&lang=en&timestamp=1678253985&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "QUEST PERTEMUAN YANG DITAKDIRKAN [Genshin Impact] Part 2")](https://www.youtube.com/watch?v=Dv2tWpb8Rq0)
+  [![QUEST PERTEMUAN YANG DITAKDIRKAN [Genshin Impact] Part 1](https://ytcards.demolab.com/?id=PX3CojpEOUE&title=QUEST+PERTEMUAN+YANG+DITAKDIRKAN+%5BGenshin+Impact%5D+Part+1&lang=en&timestamp=1678070345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "QUEST PERTEMUAN YANG DITAKDIRKAN [Genshin Impact] Part 1")](https://www.youtube.com/watch?v=PX3CojpEOUE)
+  [![LIVE DAILY [GENSHIN IMPACT] ⛔](https://ytcards.demolab.com/?id=e_X9IqmkIFo&title=LIVE+DAILY+%5BGENSHIN+IMPACT%5D+%E2%9B%94&lang=en&timestamp=1675718399&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LIVE DAILY [GENSHIN IMPACT] ⛔")](https://www.youtube.com/watch?v=e_X9IqmkIFo)
+  <!-- END YOUTUBE-CARDS -->
+</div> 
 <br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=majidtdeni666&layout=compact&theme=dark" /> <br>
